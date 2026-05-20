@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   nginx:
-    image: nginx:1.31.0@sha256:f923b3e6cde4d9e6bd1894cc8bbe00853ac6ce48f48bd1372e8edd63bb7a832d
+    image: nginx:1.31.0@sha256:206a753092e3db9fc0c5c1f295fee35f0c298c23bd015032db5faa23910318bf
     hostname: nginx
     container_name: hpvectormirror__nginx
 
